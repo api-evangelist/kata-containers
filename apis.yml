@@ -39,14 +39,14 @@ apis:
     properties:
       - type: Documentation
         url: https://katacontainers.io/docs/
-      - type: Getting Started
+      - type: GettingStarted
         url: https://github.com/kata-containers/kata-containers/tree/main/docs/install
 common:
   - type: Website
     url: https://katacontainers.io/
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/kata-containers
-  - type: GitHub Repository
+  - type: GitHubRepository
     url: https://github.com/kata-containers/kata-containers
   - type: Documentation
     url: https://katacontainers.io/docs/
