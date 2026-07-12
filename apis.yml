@@ -42,6 +42,8 @@ apis:
       - type: GettingStarted
         url: https://github.com/kata-containers/kata-containers/tree/main/docs/install
 common:
+  - type: DomainSecurity
+    url: security/kata-containers-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/katacontainers
   - type: Website
