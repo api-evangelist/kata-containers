@@ -54,6 +54,19 @@ apis:
       - type: GettingStarted
         url: https://github.com/kata-containers/kata-containers/tree/main/docs/install
 common:
+  - type: IssueTracker
+    url: https://github.com/kata-containers/kata-containers/issues
+  - type: Releases
+    url: https://github.com/kata-containers/kata-containers/releases
+  - type: SecurityPolicy
+    url: https://github.com/kata-containers/kata-containers/blob/main/SECURITY.md
+  - type: CodeOfConduct
+    url: https://github.com/kata-containers/kata-containers/blob/main/CODE_OF_CONDUCT.md
+  - type: ContributionGuide
+    url: https://github.com/kata-containers/kata-containers/blob/main/CONTRIBUTING.md
+  - type: License
+    name: Apache-2.0
+    url: https://github.com/kata-containers/kata-containers/blob/main/LICENSE
   - type: DomainSecurity
     url: security/kata-containers-domain-security.yml
   - type: LinkedIn
