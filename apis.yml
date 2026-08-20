@@ -23,6 +23,13 @@ tags:
   - Containers
   - Isolation
   - Kubernetes
+  - Open-Source
+  - Security
+  - Virtual Machines
+tags_raw:
+  - Containers
+  - Isolation
+  - Kubernetes
   - Open Source
   - Security
   - Virtual Machines
@@ -42,6 +49,13 @@ apis:
       interfaces.
     humanURL: https://katacontainers.io/
     tags:
+      - Containers
+      - Isolation
+      - Kubernetes
+      - Open-Source
+      - Security
+      - Virtual Machines
+    tags_raw:
       - Containers
       - Isolation
       - Kubernetes
