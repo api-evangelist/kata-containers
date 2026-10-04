@@ -35,7 +35,7 @@ tags:
   - Containers
   - Isolation
   - Kubernetes
-  - Open-Source
+  - Open Source
   - Security
   - Virtual Machines
 tags_raw:
@@ -45,6 +45,7 @@ tags_raw:
   - Open Source
   - Security
   - Virtual Machines
+  - Open-Source
 url: >-
   https://raw.githubusercontent.com/api-evangelist/kata-containers/refs/heads/main/apis.yml
 created: '2026-03-26'
@@ -64,7 +65,7 @@ apis:
       - Containers
       - Isolation
       - Kubernetes
-      - Open-Source
+      - Open Source
       - Security
       - Virtual Machines
     tags_raw:
@@ -74,6 +75,7 @@ apis:
       - Open Source
       - Security
       - Virtual Machines
+      - Open-Source
     properties:
       - type: Documentation
         url: https://katacontainers.io/docs/
